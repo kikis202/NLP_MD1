@@ -25,6 +25,7 @@ pel      N5dekl;
 ac   N6dekl;
 sird N6dekl;
 ugun N6dekl;
+pil  N6dekl; ! aizvietošana pie +N+Pl+Gen
 
 LEXICON N4dekl
 +N+Sg+Nom:^a  #;
